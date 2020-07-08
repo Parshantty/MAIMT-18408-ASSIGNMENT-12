@@ -1,0 +1,31 @@
+body{
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-weight: 20px;
+    
+}
+form{
+    border: solid gray 5px;
+    width: 50%;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 100px;
+    background: white;
+}
+.field-column{
+    padding: 10px;
+    margin-left: 170px;
+}
+input[type=submit]{
+    background-color:lightblue;
+    padding: 10px 30px 10px 30px;
+    border-radius: 10px;
+    margin: 10px 0 20px 200px;
+    font-size: 15px;
+}
+.highlight{
+    color: red;
+    background-color: lightblue;
+}
